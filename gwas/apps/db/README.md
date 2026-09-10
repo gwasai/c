@@ -1,1 +1,1 @@
-# GWAS DB - www.GWAS.DB
+# GWAS Database - www.GWASDb.com
